@@ -3,7 +3,7 @@
 
 <img width="400" alt="banner" align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-- 🔭 I’m currently working on **something**
+- 🔭 I’m currently working on **Something**
 
 - 🌱 I’m currently learning **React, Express JS, MongoDB**
 
