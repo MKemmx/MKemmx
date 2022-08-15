@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Kemm Asdilla</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 <img width="400" alt="banner" align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
