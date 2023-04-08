@@ -6,14 +6,14 @@
 
 - 🌱 I’m currently learning **React, Express JS, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://kemm.vercel.app/](https://kimzx.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://kemm.vercel.app/](https://kemm.vercel.app/)
 
 - 📫 How to reach me **kimasdilla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//mkemmx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/mkemmx" height="30" width="40" /></a>
-<a href="https://fb.com//mkemmx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/mkemmx/" height="30" width="40" /></a>
+<a href="https://fb.com//mkemmx/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/mkemmx/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
